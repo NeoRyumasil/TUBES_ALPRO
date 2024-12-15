@@ -7,3 +7,5 @@ Anggota:
 
 Deskripsi :
 Aplikasi konsultasi kesehatan yang dapat di run pada terminal, dimana terdapat user pasien yang dapat bertanya tentang keluhannya pada forum lalu ditanggapi oleh user dokter.
+
+Note : Gunakan perintah "go run ." untuk menjalankan program.
